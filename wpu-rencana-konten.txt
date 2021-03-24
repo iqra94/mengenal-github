@@ -3,6 +3,7 @@ rencana konten wpu
   -- es6
   --framework javascript
    -> vue js
+   -> react js
 - fundamental data stuktur
 - php framework
  -> laravel
